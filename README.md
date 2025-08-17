@@ -1,3 +1,4 @@
+🏠 FlatSync
 FlatSync Backend
 
 FlatSync is a collaborative roommate management system designed to simplify shared living. This backend, built using Laravel and MySQL, powers the application’s core features, including chore management, bill splitting, notifications, community spaces, and more.
